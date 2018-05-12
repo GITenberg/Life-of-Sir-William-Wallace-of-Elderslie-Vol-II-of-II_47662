@@ -1,10 +1,16 @@
 _repo: Life-of-Sir-William-Wallace-of-Elderslie-Vol-II-of-II_47662
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47662-h/images/cover.jpg
 creator:
   author:
     agent_name: Carrick, John D.
     gutenberg_agent_id: '44417'
     url: http://www.gutenberg.org/2009/agents/44417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47662#Life-of-Sir-William-Wallace-of-Elderslie-Vol-II-of-II
 gutenberg_issued: '2014-12-14'
 gutenberg_type: Text
 identifiers:
