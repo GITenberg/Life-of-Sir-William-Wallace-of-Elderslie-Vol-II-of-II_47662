@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Life of Sir William Wallace of Elderslie, Vol, II (of II)
 url: http://www.gutenberg.org/ebooks/47662
